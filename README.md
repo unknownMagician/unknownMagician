@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @unknownMagician
-- 👀 I’m interested in python ,css ,c ,javascript,node.js,blockchain
+- 👋 Hi, I’m Vipul Yadav
+- 👀 I’m interested in python, Java, css,javascript,node.js,blockchain
 - 🌱 I’m currently learning Python and Machine Learning 
 - 💞️ I’m looking to collaborate on some new helpful projects
 - 📫 How to reach me mail : vipul332001yadav@gmail.com
